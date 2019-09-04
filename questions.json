@@ -1,0 +1,26 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "text": "What's your favourite color?"
+        },
+        {
+            "id": 2,
+            "text": "What's your favourite animal?"
+        }
+    ],
+    "buttons": [
+        {
+            "id": 1,
+            "text": "Answer 1"
+        },
+        {
+            "id": 2,
+            "text": "Answer 2"
+        },
+        {
+            "id": 3,
+            "text": "Answer 3"
+        }
+    ]
+}
